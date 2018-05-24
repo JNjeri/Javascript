@@ -4,7 +4,7 @@ body{
 	}
 .container{
 	background-color: black;
-	width: 300px;
+	width: 200px;
 	height: 400px;
 	margin: 0 auto;
 	padding-top: 20px;
@@ -12,7 +12,7 @@ body{
 	border-radius: 10px;
 
 }
-.container1{
+.red{
 	background-color: red;
 	margin:0 auto;
 	padding: 5px;
@@ -21,8 +21,8 @@ body{
 	height: 90px;
 	border-radius: 60px;
 }
-.container2{
-	background-color: yellow;
+.orange{
+	background-color: orange;
 	margin:0 auto;
 	padding: 5px;
 	width: 90px;
@@ -30,7 +30,7 @@ body{
 	height: 90px;
 	border-radius: 60px;
 }
-.container3{
+.green{
 	background-color: green;
 	margin:0 auto;
 	padding: 5px;
@@ -40,10 +40,13 @@ body{
 }
 .container4{
 	background-color: black;
-	width: 100px;
+	width: 50px;
 	height: 200px;
 	margin: 0 auto;
 
 }
 
+.off{
+	background-color: #ccc;
+}
 
